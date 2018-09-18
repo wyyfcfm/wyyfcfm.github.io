@@ -1,4 +1,17 @@
-[toc]
+
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      git学习总结				# 标题 
+subtitle:   study  #副标题
+date:       2018-09-18 				# 时间
+author:     BY wyy						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 技能
+---
+
+
 #git相关
 ##1 查看远程分支 
 git branch -a
