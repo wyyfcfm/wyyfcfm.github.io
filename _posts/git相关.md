@@ -12,7 +12,7 @@ tags:								#标签
 ---
 
 
-#git相关
+
 ##1 查看远程分支 
 git branch -a
 
