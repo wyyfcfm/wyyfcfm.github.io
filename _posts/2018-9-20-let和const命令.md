@@ -1,3 +1,14 @@
+---
+layout:     post   				
+title:      ES6-第二节-let和const总结			
+subtitle:   ES6入门学习总结  
+date:       2018-09-20 			
+author:     BY wyy						
+header-img: img/post-bg-2015.jpg 	
+catalog: true 					
+tags:					
+    - git
+---
 # ES6-第二节-let和const总结
 
 ## 1.let概括  
