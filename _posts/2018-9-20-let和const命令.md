@@ -1,4 +1,4 @@
-# let和const总结
+# ES6-第二节-let和const总结
 
 ## 1.let概括  
 1. let没有变量提升    
