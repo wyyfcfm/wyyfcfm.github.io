@@ -1,0 +1,15 @@
+---
+layout:     post   				
+title:      ES6-第三节-解构赋值			
+subtitle:   ES6入门学习总结  
+date:       2018-09-20 			
+author:     BY wyy						
+header-img: img/post-bg-2015.jpg 	
+catalog: true 					
+tags:					
+    - ES6
+---
+
+## 1.数组的解构赋值  
+常规用法：  
+`let [a,b,c]=[1,2,3];`
