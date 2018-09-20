@@ -7,7 +7,7 @@ author:     BY wyy
 header-img: img/post-bg-2015.jpg 	
 catalog: true 					
 tags:					
-    - git
+    - ES6
 ---
 # ES6-第二节-let和const总结
 
